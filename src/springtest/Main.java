@@ -12,7 +12,7 @@ import org.springframework.context.annotation.*;
  *
  * @author max
  */
-public class SpringTest {
+public class Main {
 
     /**
      * @param args the command line arguments
